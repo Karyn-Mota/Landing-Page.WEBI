@@ -1,8 +1,6 @@
-# POO-2025.2-TIP4
+# WEB I - 2025.2
 
-# Repositório de Listas de Exercícios – Programação Orientada a Objetos
-
-Este repositório contém as **três listas de exercícios** em dupla da disciplina de **Programação Orientada a Objetos**, do livro **Fundamentos da Programação de Computadores**, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
+# Projeto - Landing  Page
 
 **Curso:** Técnico Integrado em Informática  
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
@@ -11,4 +9,4 @@ Este repositório contém as **três listas de exercícios** em dupla da discipl
 
 ---
 
-Cada lista foi resolvida seguindo os conceitos aprendidos em sala de aula.
+O projeto foi desenvolvido a partir dos conhecimentos obtidos sala de aula sobre HTML e CSS.
