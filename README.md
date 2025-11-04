@@ -1,10 +1,10 @@
 # Projeto - Landing  Page
 
 **Curso:** Técnico Integrado em Informática  
-**Instituição:** Instituto Federal do Ceará – Campus Maranguape  
+**Instituição:** Instituto Federal do Ceará – Campus Maranguape 
+**Período:** 4º semestre
+**Dupla:** [Karynne Mota de Abreu](https://github.com/Karyn-Mota) e [Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  
 **Disciplina:** Desenvolvimento Web I
-**Período:** 4º semestre 
-
 
 ---
 
