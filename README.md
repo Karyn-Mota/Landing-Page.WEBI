@@ -4,7 +4,7 @@
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
 **Disciplina:** Desenvolvimento Web I
 **Período:** 4º semestre 
-**Dupla:** [Karynne Mota de Abreu](https://github.com/Karyn-Mota) e [Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  
+
 
 ---
 
