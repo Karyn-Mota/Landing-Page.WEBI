@@ -2,7 +2,7 @@
 
 **Curso:** Técnico Integrado em Informática  
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
-**Disciplina:** Desenvolvimento Web I 
+**Disciplina:** Desenvolvimento Web I
 **Dupla:** [Karynne Mota de Abreu](https://github.com/Karyn-Mota) e [Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  
 **Período:** 4º semestre 
 
