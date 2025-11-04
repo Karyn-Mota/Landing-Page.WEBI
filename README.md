@@ -1,5 +1,3 @@
-# WEB I - 2025.2
-
 # Projeto - Landing  Page
 
 **Curso:** Técnico Integrado em Informática  
