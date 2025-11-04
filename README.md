@@ -23,6 +23,8 @@ A página deve demonstrar a aplicação prática dos conceitos de **estruturaç�
 ## Servidor Escolhido
 **Gabriel Ferreira Gomes**, atual **estagiário administrativo** do IFCE Campus Maranguape.
 
+---
+
 ## Conceitos Aplicados
 Durante o desenvolvimento do projeto, foram aplicados os seguintes conceitos:
 - Estruturação semântica com **HTML5**  
